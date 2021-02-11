@@ -8,6 +8,11 @@
   </a></p>
 <h4 align="center">Contagem de visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{dayellesouza}/count.svg" alt="dayellesouza :: Visitor's Count" /></p>
+<p align="center">
+<a href="https://github.com/ahampriyanshu">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayellesouza&hide_border=true&langs_count=10&layout=compact&theme=dracula" />
+</a>
+</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=synthwave" alt="dayellesouza :: Profile Stats" /></p>
 
 <!--
