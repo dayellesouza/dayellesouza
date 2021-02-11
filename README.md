@@ -1,4 +1,7 @@
 ### Hi there 👋
+<h4 align="center">Contagem de visitantes :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{dayellesouza}/count.svg" alt="dayellesouza :: Visitor's Count" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <!--
 **dayellesouza/dayellesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
