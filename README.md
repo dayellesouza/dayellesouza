@@ -1,7 +1,14 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://www.instagram.com/daaysweet_/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Dayelle Antonia de Souza's Instagram Profile" height="30" width="30">
+  </a>
+    <a href="https://www.linkedin.com/in/dayellesouza/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Dayelle Antonia de Souza's LinkedIn Profile" height="30" width="30">
+  </a></p>
 <h4 align="center">Contagem de visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{dayellesouza}/count.svg" alt="dayellesouza :: Visitor's Count" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=synthwave" alt="dayellesouza :: Profile Stats" /></p>
 
 <!--
 **dayellesouza/dayellesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
