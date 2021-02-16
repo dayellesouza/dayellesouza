@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, me chamo Dayelle. 
+- Sou formada em Análise e Desenvolvimento de Sistemas (Formação - 2018) pela Universidade de Mogi das Cruzes. 
+- Atualmente estou em transição de carreira buscando uma vaga na área de tecnologia, em busca da minha primeira oportunidade👋
+- 🌱 I’m currently learning Python
+- 💬 Ask me about everything
+- 😄 Pronouns: She/ Her
+
+
 <p align="center">
   <a href="https://www.instagram.com/daaysweet_/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Dayelle Antonia de Souza's Instagram Profile" height="30" width="30">
