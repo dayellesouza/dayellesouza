@@ -1,9 +1,10 @@
-### Olá, me chamo Dayelle. 
-- Sou formada em Análise e Desenvolvimento de Sistemas (Formação - Dez/ 2018) pela Universidade de Mogi das Cruzes. 
-- Estou em transição de carreira buscando uma vaga na área de tecnologia, em busca da minha primeira oportunidade👋
-- 🌱 I’m currently learning Python
-- 💬 Ask me about everything
-- 😄 Pronouns: She/ Her
+<h1 align=center> Hi there. My name is Dayelle. <img src="./cat.gif" height="50" width="50"/><br/> Welcome to my Github profile! </h1>
+
+* I have a degree in Systems Analysis and Development (Training - Dec / 2018) from the University of Mogi das Cruzes (São Paulo).
+* I'm in a career transition looking for a job in the technology area, looking for my first opportunity 👋
+* 🌱 I’m currently learning Python
+* 💬 Ask me about everything
+* 😄 Pronouns: She/ Her
 
 
 <p align="center">
