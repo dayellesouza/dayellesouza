@@ -1,6 +1,6 @@
 <h1 align=center> Hi there. My name is Dayelle. <img src="./cat.gif" height="50" width="50"/><br/> Welcome to my Github profile! </h1>
 
-* I have a degree in Systems Analysis and Development (Training - Dec / 2018) from the University of Mogi das Cruzes (São Paulo).
+* I have a degree in Systems Analysis and Development (Conclusion - Dec / 2018) from the University of Mogi das Cruzes (São Paulo).
 * 🔭 I’m currently working on B2 Mídia Digital (Guarulhos - Brazil), as a Junior Developer 🎉🎉
 * 🌱 I’m currently learning Python, JavaScript and Actionscript.
 * 💬 Ask me about everything
