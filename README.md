@@ -41,13 +41,19 @@
       <img align="center" alt="Dayelle-Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" alt="Dayelle-Postgresql" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img align="center" alt="Dayelle-Git" height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img align="center" alt="Dayelle-GitHUB" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </div>
   </p>
   
   <a href="https://github.com/dayellesouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"       alt="dayellesouza :: Profile Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayellesouza&langs_count=10&layout=compact&theme=dracula"/>
+    <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dayellesouza&" alt="dayellesouza" /></p>
 </div>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayellesouza" alt="dayellesouza" /></a> </p>
+
+
 
 <!--
 **dayellesouza/dayellesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
