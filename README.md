@@ -48,10 +48,11 @@
   <a href="https://github.com/dayellesouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"       alt="dayellesouza :: Profile Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayellesouza&langs_count=10&layout=compact&theme=dracula"/>
-    <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dayellesouza&" alt="dayellesouza" /></p>
+    <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dayellesouza&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="dayellesouza" /></p>
 </div>
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayellesouza" alt="dayellesouza" /></a> </p>
+</br>
+<h2 align="center">:trophy: Github Profile Trophy</h2>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayellesouza&theme=dracula&no-frame=true" alt="dayellesouza" /></a> </p>
 
 
 
