@@ -1,8 +1,8 @@
 <h1 align=center> Hello World. My name is Dayelle. <br/> Welcome to my Github profile! <img src="./daysouza.gif" height="40" width="40"/></h1>
 
 * I have a degree in Systems Analysis and Development (Conclusion - Dec / 2018) from the University of Mogi das Cruzes (São Paulo).
-* 🔭 I’m currently working on B2 Mídia Digital (Guarulhos - Brazil), as a Junior Developer 🎉🎉<img src="./cat.gif" height="30" width="30"/>
-* 🌱 I’m currently learning Python, JavaScript and Actionscript.
+* 🔭 I’m currently working on Minsait (São Paulo - Brazil), as a Developer System 🎉🎉<img src="./cat.gif" height="30" width="30"/>
+* 🌱 I’m currently learning Python, JavaScript, Java and SQL.
 * 💬 Ask me about everything
 * 😄 Pronouns: She/ Her
 
