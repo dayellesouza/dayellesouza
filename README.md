@@ -51,6 +51,12 @@
     <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dayellesouza&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="dayellesouza" /></p>
 </div>
 
+<!-- 
+</br>
+<h2 align="center">:trophy: Github Profile Trophy</h2>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayellesouza&theme=dracula&no-frame=true" alt="dayellesouza" /></a> </p>
+-->
+
 
 
 <!--
