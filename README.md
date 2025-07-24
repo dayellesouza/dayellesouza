@@ -22,11 +22,6 @@
 
 -------------
 
-<h3 align="center">Contagem de visitantes 👀✨</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{dayellesouza}/count.svg" alt="dayellesouza :: Visitor's Count" /></p>
-
--------------
-
 <div align="center">
   <h3><b>Languages and Tools</b></h3>
   
@@ -48,7 +43,6 @@
   <a href="https://github.com/dayellesouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayellesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"       alt="dayellesouza :: Profile Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayellesouza&langs_count=10&layout=compact&theme=dracula"/>
-    <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dayellesouza&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="dayellesouza" /></p>
 </div>
 
 <!-- 
